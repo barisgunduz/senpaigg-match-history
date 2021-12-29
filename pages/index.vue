@@ -300,4 +300,19 @@ img {
   width: 48px;
   height: 48px;
 }
+
+.Items .MainItems .Image, .Empty{
+  width: 19.2px;
+  height: 19.2px
+}
+.Items .MainItems .ImageBg{
+  background-color: rgb(28, 31, 51);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 0px 0px;
+  border-radius: 8px;
+  transform: scale(0.4);
+  transform-origin: left top;
+}
+
 </style>

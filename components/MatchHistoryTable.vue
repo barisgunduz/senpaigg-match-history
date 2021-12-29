@@ -1,7 +1,7 @@
 <template>
   <v-data-table :items="matchHistoryList" :items-per-page="5" class="elevation-1">
     <template v-slot:item="{ item }">
-      <tr class="MatchRow flx-sm dir-c-sm jst-s-sm ialgn-c-sm Active">
+      <tr class="MatchRow flx-sm dir-c-sm jst-s-sm ialgn-c-sm Active" :class="item.result=='VICTORY' ? 'Victory' : ''">
         <td v-for="(col, index) in item" :key="index">
           <div v-if="index == 'result'" class="ResultLabel">
             <Result :matchResult="col" />
@@ -25,7 +25,7 @@
             <MinionScore :minionScore="col" />
           </div>
           <div v-else-if="index == 'items'" class="d-flex a-center">
-            <Items />
+            <Items :item="col" />
           </div>
           <div v-else-if="index == 'teamPicks'" class="Teams">
             <TeamPicks />
@@ -137,7 +137,7 @@ export default {
   },
   computed: {
     matchHistoryList() {
-      console.log("deneme : ", this.$store.getters.getMatchHistory)
+      // console.log("deneme : ", this.$store.getters.getMatchHistory)
       return this.$store.getters.getMatchHistory;
     }
   },
