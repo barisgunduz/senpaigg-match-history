@@ -1,0 +1,302 @@
+[
+  {
+    "result": "DEFEAT",
+    "summary": ["3 days ago", "Draft Pick", "25:23", "0.11.24"],
+    "selectedChamp": [
+      "https://static.senpai.gg/lol/img/sprite/champion1.webp",
+      "-433px -49px"
+    ],
+    "summonerSpells": [
+      "https://static.senpai.gg/lol/img/spell/SummonerFlash.webp",
+      "https://static.senpai.gg/lol/img/spell/SummonerDot.webp"
+    ],
+    "runes": [
+      "https://static.senpai.gg/lol/img/perk-images/Styles/Domination/Electrocute/Electrocute.webp",
+      "https://static.senpai.gg/lol/img/perk-images/Styles/7203_Whimsy.webp"
+    ],
+    "kda": ["4 / 7 / 7", "1.57:1 KDA"],
+    "minionScore": ["130 CS", "5.12 CS/min", "34 KP"],
+    "items": [
+      "https://static.senpai.gg/lol/img/item/3094.webp",
+      "https://static.senpai.gg/lol/img/item/6671.webp",
+      "https://static.senpai.gg/lol/img/item/3006.webp",
+      "https://static.senpai.gg/lol/img/item/1036.webp",
+      "",
+      "",
+      "https://static.senpai.gg/lol/img/item/3340.webp"
+    ],
+    "teamPicks": "DrA:_%M@V3",
+    "postGameButton": "rr5(-%aF<W",
+    "id": "1"
+  },
+  {
+    "result": "DEFEAT",
+    "summary": ["3 days ago", "Ranked Solo", "25:23", "0.11.24"],
+    "selectedChamp": [
+      "https://static.senpai.gg/lol/img/sprite/champion4.webp",
+      "-97px -1px"
+    ],
+    "summonerSpells": [
+      "https://static.senpai.gg/lol/img/spell/SummonerDot.webp",
+      "https://static.senpai.gg/lol/img/spell/SummonerSmite.webp"
+    ],
+    "runes": [
+      "https://static.senpai.gg/lol/img/perk-images/Styles/Sorcery/ArcaneComet/ArcaneComet.webp",
+      "https://static.senpai.gg/lol/img/perk-images/Styles/7201_Precision.webp"
+    ],
+    "kda": ["0 / 5 / 0", "0:1 KDA"],
+    "minionScore": ["86 CS", "5.01 CS/min", "0 KP"],
+    "items": [
+      "https://static.senpai.gg/lol/img/item/3158.webp",
+      "https://static.senpai.gg/lol/img/item/3134.webp",
+      "https://static.senpai.gg/lol/img/item/1053.webp",
+      "https://static.senpai.gg/lol/img/item/1036.webp",
+      "",
+      "",
+      "https://static.senpai.gg/lol/img/item/3340.webp"
+    ],
+    "teamPicks": "aiU(Yrr7`u",
+    "postGameButton": "EP/{jM*$C}",
+    "id": "2"
+  },
+  {
+    "result": "DEFEAT",
+    "summary": ["3 days ago", "Normal Game", "25:23", "0.11.24"],
+    "selectedChamp": [
+      "https://static.senpai.gg/lol/img/sprite/champion2.webp",
+      "-97px -1px"
+    ],
+    "summonerSpells": [
+      "https://static.senpai.gg/lol/img/spell/SummonerFlash.webp",
+      "https://static.senpai.gg/lol/img/spell/SummonerTeleport.webp"
+    ],
+    "runes": [
+      "https://static.senpai.gg/lol/img/perk-images/Styles/Domination/Electrocute/Electrocute.webp",
+      "https://static.senpai.gg/lol/img/perk-images/Styles/7202_Sorcery.webp"
+    ],
+    "kda": ["5 / 11 / 8", "1.18:1 KDA"],
+    "minionScore": ["122 CS", "4.04 CS/min", "36 KP"],
+    "items": [
+      "https://static.senpai.gg/lol/img/item/3070.webp",
+      "https://static.senpai.gg/lol/img/item/3124.webp",
+      "https://static.senpai.gg/lol/img/item/2420.webp",
+      "https://static.senpai.gg/lol/img/item/3191.webp",
+      "https://static.senpai.gg/lol/img/item/3020.webp",
+      "https://static.senpai.gg/lol/img/item/6655.webp",
+      "https://static.senpai.gg/lol/img/item/3340.webp"
+    ],
+    "teamPicks": "pF!wqC8:#b",
+    "postGameButton": "-CpmDf@pq]",
+    "id": "3"
+  },
+  {
+    "result": "VICTORY",
+    "summary": ["3 days ago", "Draft Pick", "25:23", "0.11.24"],
+    "selectedChamp": [
+      "https://static.senpai.gg/lol/img/sprite/champion5.webp",
+      "-97px -1px"
+    ],
+    "summonerSpells": [
+      "https://static.senpai.gg/lol/img/spell/SummonerFlash.webp",
+      "https://static.senpai.gg/lol/img/spell/SummonerDot.webp"
+    ],
+    "runes": [
+      "https://static.senpai.gg/lol/img/perk-images/Styles/Domination/Electrocute/Electrocute.webp",
+      "https://static.senpai.gg/lol/img/perk-images/Styles/7203_Whimsy.webp"
+    ],
+    "kda": ["7 / 6 / 3", "1.67:1 KDA"],
+    "minionScore": ["127 CS", "5.17 CS/min", "59 KP"],
+    "items": [
+      "https://static.senpai.gg/lol/img/item/6692.webp",
+      "https://static.senpai.gg/lol/img/item/6696.webp",
+      "https://static.senpai.gg/lol/img/item/3123.webp",
+      "https://static.senpai.gg/lol/img/item/1036.webp",
+      "https://static.senpai.gg/lol/img/item/3111.webp",
+      "",
+      "https://static.senpai.gg/lol/img/item/3340.webp"
+    ],
+    "teamPicks": "lQ!CUUiql+",
+    "postGameButton": "n$*fVc%*PB",
+    "id": "4"
+  },
+  {
+    "result": "VICTORY",
+    "summary": ["3 days ago", "Ranked Solo", "25:23", "0.11.24"],
+    "selectedChamp": [
+      "https://static.senpai.gg/lol/img/sprite/champion4.webp",
+      "-337px -49px"
+    ],
+    "summonerSpells": [
+      "https://static.senpai.gg/lol/img/spell/SummonerFlash.webp",
+      "https://static.senpai.gg/lol/img/spell/SummonerTeleport.webp"
+    ],
+    "runes": [
+      "https://static.senpai.gg/lol/img/perk-images/Styles/Domination/Electrocute/Electrocute.webp",
+      "https://static.senpai.gg/lol/img/perk-images/Styles/7201_Precision.webp"
+    ],
+    "kda": ["9 / 7 / 5", "2:1 KDA"],
+    "minionScore": ["124 CS", "4.06 CS/min", "26 KP"],
+    "items": [
+      "https://static.senpai.gg/lol/img/item/3020.webp",
+      "https://static.senpai.gg/lol/img/item/4644.webp",
+      "https://static.senpai.gg/lol/img/item/2420.webp",
+      "https://static.senpai.gg/lol/img/item/4645.webp",
+      "https://static.senpai.gg/lol/img/item/3102.webp",
+      "https://static.senpai.gg/lol/img/item/3191.webp",
+      "https://static.senpai.gg/lol/img/item/3340.webp"
+    ],
+    "teamPicks": "[?\\XPbm)I[",
+    "postGameButton": "u/#)*vo<U7",
+    "id": "5"
+  },
+  {
+    "result": "DEFEAT",
+    "summary": ["3 days ago", "Draft Pick", "25:23", "0.11.24"],
+    "selectedChamp": [
+      "https://static.senpai.gg/lol/img/sprite/champion1.webp",
+      "-49px -1px"
+    ],
+    "summonerSpells": [
+      "https://static.senpai.gg/lol/img/spell/SummonerFlash.webp",
+      "https://static.senpai.gg/lol/img/spell/SummonerDot.webp"
+    ],
+    "runes": [
+      "https://static.senpai.gg/lol/img/perk-images/Styles/Domination/Electrocute/Electrocute.webp",
+      "https://static.senpai.gg/lol/img/perk-images/Styles/7201_Precision.webp"
+    ],
+    "kda": ["4 / 8 / 5", "1.12:1 KDA"],
+    "minionScore": ["153 CS", "4.3 CS/min", "43 KP"],
+    "items": [
+      "https://static.senpai.gg/lol/img/item/3165.webp",
+      "https://static.senpai.gg/lol/img/item/6655.webp",
+      "https://static.senpai.gg/lol/img/item/3157.webp",
+      "https://static.senpai.gg/lol/img/item/2055.webp",
+      "https://static.senpai.gg/lol/img/item/3020.webp",
+      "https://static.senpai.gg/lol/img/item/1026.webp",
+      "https://static.senpai.gg/lol/img/item/3340.webp"
+    ],
+    "teamPicks": "O<;Q)9SsK|",
+    "postGameButton": ")WN[#+<Vqw",
+    "id": "6"
+  },
+  {
+    "result": "VICTORY",
+    "summary": ["3 days ago", "ARAM", "25:23", "0.11.24"],
+    "selectedChamp": [
+      "https://static.senpai.gg/lol/img/sprite/champion0.webp",
+      "-289px -1px"
+    ],
+    "summonerSpells": [
+      "https://static.senpai.gg/lol/img/spell/SummonerFlash.webp",
+      "https://static.senpai.gg/lol/img/spell/SummonerExhaust.webp"
+    ],
+    "runes": [
+      "https://static.senpai.gg/lol/img/perk-images/Styles/Precision/LethalTempo/LethalTempoTemp.webp",
+      "https://static.senpai.gg/lol/img/perk-images/Styles/7200_Domination.webp"
+    ],
+    "kda": ["10 / 7 / 33", "6.14:1 KDA"],
+    "minionScore": ["53 CS", "2.99 CS/min", "63 KP"],
+    "items": [
+      "https://static.senpai.gg/lol/img/item/6653.webp",
+      "https://static.senpai.gg/lol/img/item/3020.webp",
+      "https://static.senpai.gg/lol/img/item/2421.webp",
+      "https://static.senpai.gg/lol/img/item/4637.webp",
+      "https://static.senpai.gg/lol/img/item/3040.webp",
+      "https://static.senpai.gg/lol/img/item/3191.webp",
+      "https://static.senpai.gg/lol/img/item/3340.webp"
+    ],
+    "teamPicks": "h9'jywl_}2",
+    "postGameButton": "/RfP'XH6h(",
+    "id": "7"
+  },
+  {
+    "result": "DEFEAT",
+    "summary": ["3 days ago", "Draft Pick", "25:23", "0.11.24"],
+    "selectedChamp": [
+      "https://static.senpai.gg/lol/img/sprite/champion0.webp",
+      "-97px -97px"
+    ],
+    "summonerSpells": [
+      "https://static.senpai.gg/lol/img/spell/SummonerFlash.webp",
+      "https://static.senpai.gg/lol/img/spell/SummonerTeleport.webp"
+    ],
+    "runes": [
+      "https://static.senpai.gg/lol/img/perk-images/Styles/Precision/LethalTempo/LethalTempoTemp.webp",
+      "https://static.senpai.gg/lol/img/perk-images/Styles/7200_Domination.webp"
+    ],
+    "kda": ["5 / 7 / 8", "1:1 KDA"],
+    "minionScore": ["83 CS", "2.91 CS/min", "16 KP"],
+    "items": [
+      "https://static.senpai.gg/lol/img/item/3070.webp",
+      "https://static.senpai.gg/lol/img/item/6655.webp",
+      "https://static.senpai.gg/lol/img/item/3020.webp",
+      "https://static.senpai.gg/lol/img/item/4628.webp",
+      "https://static.senpai.gg/lol/img/item/3091.webp",
+      "https://static.senpai.gg/lol/img/item/1026.webp",
+      "https://static.senpai.gg/lol/img/item/3340.webp"
+    ],
+    "teamPicks": "M*i\\ph7]9G",
+    "postGameButton": "A&wEjX7kav",
+    "id": "8"
+  },
+  {
+    "result": "DEFEAT",
+    "summary": ["3 days ago", "Draft Pick", "25:23", "0.11.24"],
+    "selectedChamp": [
+      "https://static.senpai.gg/lol/img/sprite/champion4.webp",
+      "-385px -49px"
+    ],
+    "summonerSpells": [
+      "https://static.senpai.gg/lol/img/spell/SummonerDot.webp",
+      "https://static.senpai.gg/lol/img/spell/SummonerTeleport.webp"
+    ],
+    "runes": [
+      "https://static.senpai.gg/lol/img/perk-images/Styles/Resolve/GraspOfTheUndying/GraspOfTheUndying.webp",
+      "https://static.senpai.gg/lol/img/perk-images/Styles/7201_Precision.webp"
+    ],
+    "kda": ["4 / 7 / 7", "1.57:1 KDA"],
+    "minionScore": ["130 CS", "5.12 CS/min", "34 KP"],
+    "items": [
+      "https://static.senpai.gg/lol/img/item/3111.webp",
+      "https://static.senpai.gg/lol/img/item/6664.webp",
+      "https://static.senpai.gg/lol/img/item/3065.webp",
+      "https://static.senpai.gg/lol/img/item/1031.webp",
+      "https://static.senpai.gg/lol/img/item/2055.webp",
+      "",
+      "https://static.senpai.gg/lol/img/item/3340.webp"
+    ],
+    "teamPicks": "k)/V,b[eRk",
+    "postGameButton": "X/sLn3'wk$",
+    "id": "9"
+  },
+  {
+    "result": "DEFEAT",
+    "summary": ["3 days ago", "Draft Pick", "25:23", "0.11.24"],
+    "selectedChamp": [
+      "https://static.senpai.gg/lol/img/sprite/champion1.webp",
+      "-433px -97px"
+    ],
+    "summonerSpells": [
+      "https://static.senpai.gg/lol/img/spell/SummonerFlash.webp",
+      "https://static.senpai.gg/lol/img/spell/SummonerSmite.webp"
+    ],
+    "runes": [
+      "https://static.senpai.gg/lol/img/perk-images/Styles/Precision/Conqueror/Conqueror.webp",
+      "https://static.senpai.gg/lol/img/perk-images/Styles/7203_Whimsy.webp"
+    ],
+    "kda": ["6 / 4 / 4", "2.5:1 KDA"],
+    "minionScore": ["128 CS", "5.42 CS/min", "59 KP"],
+    "items": [
+      "https://static.senpai.gg/lol/img/item/3020.webp",
+      "https://static.senpai.gg/lol/img/item/3152.webp",
+      "https://static.senpai.gg/lol/img/item/3157.webp",
+      "https://static.senpai.gg/lol/img/item/3916.webp",
+      "https://static.senpai.gg/lol/img/item/1026.webp",
+      "",
+      "https://static.senpai.gg/lol/img/item/3340.webp"
+    ],
+    "teamPicks": "hV\"o%jA[dg",
+    "postGameButton": "uS$(cPSg6r",
+    "id": "10"
+  }
+]
