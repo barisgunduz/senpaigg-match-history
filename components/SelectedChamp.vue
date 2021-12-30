@@ -2,7 +2,10 @@
   <div class="Image pos-r" style="width: 48px; height: 48px">
     <div
       class="ImageBg"
-      :style="{'background-image': 'url(' + champImage[0] +')', 'background-position': champImage[1]}"
+      :style="{
+        'background-image': 'url(' + champImage[0] + ')',
+        'background-position': champImage[1],
+      }"
     ></div>
   </div>
 </template>

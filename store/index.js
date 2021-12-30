@@ -9,8 +9,8 @@ export const mutations = {
 };
 
 export const actions = {
-  async nuxtServerInit({commit, dispatch}) {
-    await dispatch('matchHistoryData')
+  async nuxtServerInit({ commit, dispatch }) {
+    await dispatch("matchHistoryData");
     // vuexContext.commit("setMatchHistory", [
     //   {
     //     result: "WIN",
@@ -99,9 +99,11 @@ export const actions = {
     //   },
     // ]);
   },
-  async matchHistoryData({commit}) {
-    const {data} = await this.$axios.get('https://61c5d0a5c003e70017b79940.mockapi.io/api/users')
-    commit('setMatchHistory', data)
+  async matchHistoryData({ commit }) {
+    const { data } = await this.$axios.get(
+      "https://61c5d0a5c003e70017b79940.mockapi.io/api/users"
+    );
+    commit("setMatchHistory", data);
   },
   setMatchHistory(vuexContext, matches) {
     vuexContext.commit("setMatchHistory", matches);

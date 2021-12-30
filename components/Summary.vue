@@ -10,4 +10,3 @@ export default {
   props: ["summary"],
 };
 </script>
-<style lang=""></style>
