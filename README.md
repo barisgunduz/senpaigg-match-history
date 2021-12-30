@@ -1,6 +1,9 @@
 
 # SenpAI.GG Match History
 
+### Preview
+
+[Preview on Netlify](https://senpai-match-history.netlify.app/)
 
 ### Installation
 
