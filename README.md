@@ -1,6 +1,8 @@
-# match-history
 
-## Build Setup
+# SenpAI.GG Match History
+
+
+### Installation
 
 ```bash
 # install dependencies
@@ -16,6 +18,31 @@ $ npm run start
 # generate static project
 $ npm run generate
 ```
+### Get all items
+Data with MockAPI
+
+```http
+  GET https://61c5d0a5c003e70017b79940.mockapi.io/api/users
+```
+
+### Screenshots
+
+![App Screenshot](https://raw.githubusercontent.com/barisgunduz/senpaigg-match-history/master/assets/project.png)
+
+
+### Languages & Frameworks & Tools
+
+- Vue
+- Nuxt
+- Vuetify
+- Axios
+- Scss
+
+
+### TO-DO
+
+- Filter
+- Mobile Design
 
 For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
 
