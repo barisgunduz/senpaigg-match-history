@@ -80,6 +80,18 @@ img {
   display: -moz-flex !important;
   display: flex !important;
 }
+.AverageMatchRank {
+  background-image: linear-gradient(#1c1c1d, #172c9f);
+  border-radius: 30px;
+  font-size: 13px !important;
+  padding: 1px 4px 1px 4px;
+  width: 45px;
+  height: 45px;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 .MatchRow {
   background-color: #1c1f33;
   box-shadow: 0 0 30px rgb(0 0 0 / 50%);
@@ -130,10 +142,10 @@ img {
 }
 .MatchRow.Active {
   box-shadow: none;
-  background-color: rgba(35, 22, 33, .8);
+  background-color: rgba(35, 22, 33, 0.8);
 }
 .MatchRow.Active.Victory {
-  background-color: rgba(13, 15, 27, .1);
+  background-color: rgba(13, 15, 27, 0.1);
 }
 
 .ResultLabel {

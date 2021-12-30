@@ -1,13 +1,23 @@
 <template>
-  <v-data-table :items="matchHistoryList" :items-per-page="5" class="Table flx-sm dir-r-sm jst-s-sm flx-nw-sm ialgn-st-sm">
+  <v-data-table
+    :items="matchHistoryList"
+    :items-per-page="5"
+    class="Table flx-sm dir-r-sm jst-s-sm flx-nw-sm ialgn-st-sm"
+  >
     <template v-slot:item="{ item }">
-      <tr class="MatchRow flx-sm dir-c-sm jst-s-sm ialgn-c-sm Active" :class="item.result=='VICTORY' ? 'Victory' : ''">
-        <td v-for="(col, index) in item" :key="index">
+      <tr
+        class="MatchRow flx-sm dir-c-sm jst-s-sm ialgn-c-sm Active"
+        :class="item.result == 'VICTORY' ? 'Victory' : ''"
+      >
+        <td v-for="(col, index) in item" :key="col.id">
           <div v-if="index == 'result'" class="ResultLabel">
             <Result :matchResult="col" />
           </div>
           <div v-else-if="index == 'summary'">
             <Summary :summary="col" />
+          </div>
+          <div v-else-if="index == 'averageMatchRank'" >
+            <AverageMatchRank :averageMatchRank="col" />
           </div>
           <div v-else-if="index == 'selectedChamp'" class="Champion crs-pntr">
             <SelectedChamp :champImage="col" />
@@ -48,7 +58,7 @@ export default {
     matchHistoryList() {
       // console.log("deneme : ", this.$store.getters.getMatchHistory)
       return this.$store.getters.getMatchHistory;
-    }
+    },
   },
 };
 </script>

@@ -2,6 +2,7 @@
   {
     "result": "DEFEAT",
     "summary": ["3 days ago", "Draft Pick", "25:23", "0.11.24"],
+    "averageMatchRank" : 43,
     "selectedChamp": [
       "https://static.senpai.gg/lol/img/sprite/champion1.webp",
       "-433px -49px",
@@ -78,6 +79,7 @@
   {
     "result": "DEFEAT",
     "summary": ["3 days ago", "Ranked Solo", "25:23", "0.11.24"],
+    "averageMatchRank" : 49,
     "selectedChamp": [
       "https://static.senpai.gg/lol/img/sprite/champion4.webp",
       "-97px -1px",
@@ -154,6 +156,7 @@
   {
     "result": "DEFEAT",
     "summary": ["3 days ago", "Normal Game", "25:23", "0.11.24"],
+    "averageMatchRank" : 53,
     "selectedChamp": [
       "https://static.senpai.gg/lol/img/sprite/champion2.webp",
       "-97px -1px",
@@ -230,6 +233,7 @@
   {
     "result": "VICTORY",
     "summary": ["3 days ago", "Draft Pick", "25:23", "0.11.24"],
+    "averageMatchRank" : 45,
     "selectedChamp": [
       "https://static.senpai.gg/lol/img/sprite/champion5.webp",
       "-97px -1px",
@@ -306,6 +310,7 @@
   {
     "result": "VICTORY",
     "summary": ["3 days ago", "Ranked Solo", "25:23", "0.11.24"],
+    "averageMatchRank" : 41,
     "selectedChamp": [
       "https://static.senpai.gg/lol/img/sprite/champion4.webp",
       "-337px -49px",
@@ -382,6 +387,7 @@
   {
     "result": "DEFEAT",
     "summary": ["3 days ago", "Draft Pick", "25:23", "0.11.24"],
+    "averageMatchRank" : 44,
     "selectedChamp": [
       "https://static.senpai.gg/lol/img/sprite/champion1.webp",
       "-49px -1px",
@@ -458,6 +464,7 @@
   {
     "result": "VICTORY",
     "summary": ["3 days ago", "ARAM", "25:23", "0.11.24"],
+    "averageMatchRank" : 48,
     "selectedChamp": [
       "https://static.senpai.gg/lol/img/sprite/champion0.webp",
       "-289px -1px",
@@ -534,6 +541,7 @@
   {
     "result": "DEFEAT",
     "summary": ["3 days ago", "Draft Pick", "25:23", "0.11.24"],
+    "averageMatchRank" : 51,
     "selectedChamp": [
       "https://static.senpai.gg/lol/img/sprite/champion0.webp",
       "-97px -97px",
@@ -610,6 +618,7 @@
   {
     "result": "DEFEAT",
     "summary": ["3 days ago", "Draft Pick", "25:23", "0.11.24"],
+    "averageMatchRank" : 52,
     "selectedChamp": [
       "https://static.senpai.gg/lol/img/sprite/champion4.webp",
       "-385px -49px",
@@ -686,6 +695,7 @@
   {
     "result": "DEFEAT",
     "summary": ["3 days ago", "Draft Pick", "25:23", "0.11.24"],
+    "averageMatchRank" : 54,
     "selectedChamp": [
       "https://static.senpai.gg/lol/img/sprite/champion1.webp",
       "-433px -97px",
