@@ -28,7 +28,7 @@
             <Items :item="col" />
           </div>
           <div v-else-if="index == 'teamPicks'" class="Teams">
-            <TeamPicks />
+            <TeamPicks :teamPicks="col" />
           </div>
           <a
             v-else-if="index == 'postGameButton'"

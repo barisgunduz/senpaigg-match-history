@@ -25,7 +25,52 @@
       "",
       "https://static.senpai.gg/lol/img/item/3340.webp"
     ],
-    "teamPicks": "DrA:_%M@V3",
+    "teamPicks": {
+      "redTeam": {
+        "hero1": [
+          "https://static.senpai.gg/lol/img/sprite/champion1.webp",
+          "-433px -49px"
+        ],
+        "hero2": [
+          "https://static.senpai.gg/lol/img/sprite/champion4.webp",
+          "-97px -1px"
+        ],
+        "hero3": [
+          "https://static.senpai.gg/lol/img/sprite/champion2.webp",
+          "-97px -1px"
+        ],
+        "hero4": [
+          "https://static.senpai.gg/lol/img/sprite/champion5.webp",
+          "-97px -1px"
+        ],
+        "hero5": [
+          "https://static.senpai.gg/lol/img/sprite/champion4.webp",
+          "-337px -49px"
+        ]
+      },
+      "blueTeam": {
+        "hero1": [
+          "https://static.senpai.gg/lol/img/sprite/champion1.webp",
+          "-49px -1px"
+        ],
+        "hero2": [
+          "https://static.senpai.gg/lol/img/sprite/champion0.webp",
+          "-289px -1px"
+        ],
+        "hero3": [
+          "https://static.senpai.gg/lol/img/sprite/champion0.webp",
+          "-97px -97px"
+        ],
+        "hero4": [
+          "https://static.senpai.gg/lol/img/sprite/champion4.webp",
+          "-385px -49px"
+        ],
+        "hero5": [
+          "https://static.senpai.gg/lol/img/sprite/champion1.webp",
+          "-433px -97px"
+        ]
+      }
+    },
     "postGameButton": "rr5(-%aF<W",
     "id": "1"
   },
@@ -55,7 +100,52 @@
       "",
       "https://static.senpai.gg/lol/img/item/3340.webp"
     ],
-    "teamPicks": "aiU(Yrr7`u",
+    "teamPicks": {
+      "redTeam": {
+        "hero1": [
+          "https://static.senpai.gg/lol/img/sprite/champion1.webp",
+          "-433px -49px"
+        ],
+        "hero2": [
+          "https://static.senpai.gg/lol/img/sprite/champion4.webp",
+          "-97px -1px"
+        ],
+        "hero3": [
+          "https://static.senpai.gg/lol/img/sprite/champion2.webp",
+          "-97px -1px"
+        ],
+        "hero4": [
+          "https://static.senpai.gg/lol/img/sprite/champion5.webp",
+          "-97px -1px"
+        ],
+        "hero5": [
+          "https://static.senpai.gg/lol/img/sprite/champion4.webp",
+          "-337px -49px"
+        ]
+      },
+      "blueTeam": {
+        "hero1": [
+          "https://static.senpai.gg/lol/img/sprite/champion1.webp",
+          "-49px -1px"
+        ],
+        "hero2": [
+          "https://static.senpai.gg/lol/img/sprite/champion0.webp",
+          "-289px -1px"
+        ],
+        "hero3": [
+          "https://static.senpai.gg/lol/img/sprite/champion0.webp",
+          "-97px -97px"
+        ],
+        "hero4": [
+          "https://static.senpai.gg/lol/img/sprite/champion4.webp",
+          "-385px -49px"
+        ],
+        "hero5": [
+          "https://static.senpai.gg/lol/img/sprite/champion1.webp",
+          "-433px -97px"
+        ]
+      }
+    },
     "postGameButton": "EP/{jM*$C}",
     "id": "2"
   },
@@ -85,7 +175,52 @@
       "https://static.senpai.gg/lol/img/item/6655.webp",
       "https://static.senpai.gg/lol/img/item/3340.webp"
     ],
-    "teamPicks": "pF!wqC8:#b",
+    "teamPicks": {
+      "redTeam": {
+        "hero1": [
+          "https://static.senpai.gg/lol/img/sprite/champion1.webp",
+          "-433px -49px"
+        ],
+        "hero2": [
+          "https://static.senpai.gg/lol/img/sprite/champion4.webp",
+          "-97px -1px"
+        ],
+        "hero3": [
+          "https://static.senpai.gg/lol/img/sprite/champion2.webp",
+          "-97px -1px"
+        ],
+        "hero4": [
+          "https://static.senpai.gg/lol/img/sprite/champion5.webp",
+          "-97px -1px"
+        ],
+        "hero5": [
+          "https://static.senpai.gg/lol/img/sprite/champion4.webp",
+          "-337px -49px"
+        ]
+      },
+      "blueTeam": {
+        "hero1": [
+          "https://static.senpai.gg/lol/img/sprite/champion1.webp",
+          "-49px -1px"
+        ],
+        "hero2": [
+          "https://static.senpai.gg/lol/img/sprite/champion0.webp",
+          "-289px -1px"
+        ],
+        "hero3": [
+          "https://static.senpai.gg/lol/img/sprite/champion0.webp",
+          "-97px -97px"
+        ],
+        "hero4": [
+          "https://static.senpai.gg/lol/img/sprite/champion4.webp",
+          "-385px -49px"
+        ],
+        "hero5": [
+          "https://static.senpai.gg/lol/img/sprite/champion1.webp",
+          "-433px -97px"
+        ]
+      }
+    },
     "postGameButton": "-CpmDf@pq]",
     "id": "3"
   },
@@ -115,7 +250,52 @@
       "",
       "https://static.senpai.gg/lol/img/item/3340.webp"
     ],
-    "teamPicks": "lQ!CUUiql+",
+    "teamPicks": {
+      "redTeam": {
+        "hero1": [
+          "https://static.senpai.gg/lol/img/sprite/champion1.webp",
+          "-433px -49px"
+        ],
+        "hero2": [
+          "https://static.senpai.gg/lol/img/sprite/champion4.webp",
+          "-97px -1px"
+        ],
+        "hero3": [
+          "https://static.senpai.gg/lol/img/sprite/champion2.webp",
+          "-97px -1px"
+        ],
+        "hero4": [
+          "https://static.senpai.gg/lol/img/sprite/champion5.webp",
+          "-97px -1px"
+        ],
+        "hero5": [
+          "https://static.senpai.gg/lol/img/sprite/champion4.webp",
+          "-337px -49px"
+        ]
+      },
+      "blueTeam": {
+        "hero1": [
+          "https://static.senpai.gg/lol/img/sprite/champion1.webp",
+          "-49px -1px"
+        ],
+        "hero2": [
+          "https://static.senpai.gg/lol/img/sprite/champion0.webp",
+          "-289px -1px"
+        ],
+        "hero3": [
+          "https://static.senpai.gg/lol/img/sprite/champion0.webp",
+          "-97px -97px"
+        ],
+        "hero4": [
+          "https://static.senpai.gg/lol/img/sprite/champion4.webp",
+          "-385px -49px"
+        ],
+        "hero5": [
+          "https://static.senpai.gg/lol/img/sprite/champion1.webp",
+          "-433px -97px"
+        ]
+      }
+    },
     "postGameButton": "n$*fVc%*PB",
     "id": "4"
   },
@@ -145,7 +325,52 @@
       "https://static.senpai.gg/lol/img/item/3191.webp",
       "https://static.senpai.gg/lol/img/item/3340.webp"
     ],
-    "teamPicks": "[?\\XPbm)I[",
+    "teamPicks": {
+      "redTeam": {
+        "hero1": [
+          "https://static.senpai.gg/lol/img/sprite/champion1.webp",
+          "-433px -49px"
+        ],
+        "hero2": [
+          "https://static.senpai.gg/lol/img/sprite/champion4.webp",
+          "-97px -1px"
+        ],
+        "hero3": [
+          "https://static.senpai.gg/lol/img/sprite/champion2.webp",
+          "-97px -1px"
+        ],
+        "hero4": [
+          "https://static.senpai.gg/lol/img/sprite/champion5.webp",
+          "-97px -1px"
+        ],
+        "hero5": [
+          "https://static.senpai.gg/lol/img/sprite/champion4.webp",
+          "-337px -49px"
+        ]
+      },
+      "blueTeam": {
+        "hero1": [
+          "https://static.senpai.gg/lol/img/sprite/champion1.webp",
+          "-49px -1px"
+        ],
+        "hero2": [
+          "https://static.senpai.gg/lol/img/sprite/champion0.webp",
+          "-289px -1px"
+        ],
+        "hero3": [
+          "https://static.senpai.gg/lol/img/sprite/champion0.webp",
+          "-97px -97px"
+        ],
+        "hero4": [
+          "https://static.senpai.gg/lol/img/sprite/champion4.webp",
+          "-385px -49px"
+        ],
+        "hero5": [
+          "https://static.senpai.gg/lol/img/sprite/champion1.webp",
+          "-433px -97px"
+        ]
+      }
+    },
     "postGameButton": "u/#)*vo<U7",
     "id": "5"
   },
@@ -175,7 +400,52 @@
       "https://static.senpai.gg/lol/img/item/1026.webp",
       "https://static.senpai.gg/lol/img/item/3340.webp"
     ],
-    "teamPicks": "O<;Q)9SsK|",
+    "teamPicks": {
+      "redTeam": {
+        "hero1": [
+          "https://static.senpai.gg/lol/img/sprite/champion1.webp",
+          "-433px -49px"
+        ],
+        "hero2": [
+          "https://static.senpai.gg/lol/img/sprite/champion4.webp",
+          "-97px -1px"
+        ],
+        "hero3": [
+          "https://static.senpai.gg/lol/img/sprite/champion2.webp",
+          "-97px -1px"
+        ],
+        "hero4": [
+          "https://static.senpai.gg/lol/img/sprite/champion5.webp",
+          "-97px -1px"
+        ],
+        "hero5": [
+          "https://static.senpai.gg/lol/img/sprite/champion4.webp",
+          "-337px -49px"
+        ]
+      },
+      "blueTeam": {
+        "hero1": [
+          "https://static.senpai.gg/lol/img/sprite/champion1.webp",
+          "-49px -1px"
+        ],
+        "hero2": [
+          "https://static.senpai.gg/lol/img/sprite/champion0.webp",
+          "-289px -1px"
+        ],
+        "hero3": [
+          "https://static.senpai.gg/lol/img/sprite/champion0.webp",
+          "-97px -97px"
+        ],
+        "hero4": [
+          "https://static.senpai.gg/lol/img/sprite/champion4.webp",
+          "-385px -49px"
+        ],
+        "hero5": [
+          "https://static.senpai.gg/lol/img/sprite/champion1.webp",
+          "-433px -97px"
+        ]
+      }
+    },
     "postGameButton": ")WN[#+<Vqw",
     "id": "6"
   },
@@ -205,7 +475,52 @@
       "https://static.senpai.gg/lol/img/item/3191.webp",
       "https://static.senpai.gg/lol/img/item/3340.webp"
     ],
-    "teamPicks": "h9'jywl_}2",
+    "teamPicks": {
+      "redTeam": {
+        "hero1": [
+          "https://static.senpai.gg/lol/img/sprite/champion1.webp",
+          "-433px -49px"
+        ],
+        "hero2": [
+          "https://static.senpai.gg/lol/img/sprite/champion4.webp",
+          "-97px -1px"
+        ],
+        "hero3": [
+          "https://static.senpai.gg/lol/img/sprite/champion2.webp",
+          "-97px -1px"
+        ],
+        "hero4": [
+          "https://static.senpai.gg/lol/img/sprite/champion5.webp",
+          "-97px -1px"
+        ],
+        "hero5": [
+          "https://static.senpai.gg/lol/img/sprite/champion4.webp",
+          "-337px -49px"
+        ]
+      },
+      "blueTeam": {
+        "hero1": [
+          "https://static.senpai.gg/lol/img/sprite/champion1.webp",
+          "-49px -1px"
+        ],
+        "hero2": [
+          "https://static.senpai.gg/lol/img/sprite/champion0.webp",
+          "-289px -1px"
+        ],
+        "hero3": [
+          "https://static.senpai.gg/lol/img/sprite/champion0.webp",
+          "-97px -97px"
+        ],
+        "hero4": [
+          "https://static.senpai.gg/lol/img/sprite/champion4.webp",
+          "-385px -49px"
+        ],
+        "hero5": [
+          "https://static.senpai.gg/lol/img/sprite/champion1.webp",
+          "-433px -97px"
+        ]
+      }
+    },
     "postGameButton": "/RfP'XH6h(",
     "id": "7"
   },
@@ -235,7 +550,52 @@
       "https://static.senpai.gg/lol/img/item/1026.webp",
       "https://static.senpai.gg/lol/img/item/3340.webp"
     ],
-    "teamPicks": "M*i\\ph7]9G",
+    "teamPicks": {
+      "redTeam": {
+        "hero1": [
+          "https://static.senpai.gg/lol/img/sprite/champion1.webp",
+          "-433px -49px"
+        ],
+        "hero2": [
+          "https://static.senpai.gg/lol/img/sprite/champion4.webp",
+          "-97px -1px"
+        ],
+        "hero3": [
+          "https://static.senpai.gg/lol/img/sprite/champion2.webp",
+          "-97px -1px"
+        ],
+        "hero4": [
+          "https://static.senpai.gg/lol/img/sprite/champion5.webp",
+          "-97px -1px"
+        ],
+        "hero5": [
+          "https://static.senpai.gg/lol/img/sprite/champion4.webp",
+          "-337px -49px"
+        ]
+      },
+      "blueTeam": {
+        "hero1": [
+          "https://static.senpai.gg/lol/img/sprite/champion1.webp",
+          "-49px -1px"
+        ],
+        "hero2": [
+          "https://static.senpai.gg/lol/img/sprite/champion0.webp",
+          "-289px -1px"
+        ],
+        "hero3": [
+          "https://static.senpai.gg/lol/img/sprite/champion0.webp",
+          "-97px -97px"
+        ],
+        "hero4": [
+          "https://static.senpai.gg/lol/img/sprite/champion4.webp",
+          "-385px -49px"
+        ],
+        "hero5": [
+          "https://static.senpai.gg/lol/img/sprite/champion1.webp",
+          "-433px -97px"
+        ]
+      }
+    },
     "postGameButton": "A&wEjX7kav",
     "id": "8"
   },
@@ -265,7 +625,52 @@
       "",
       "https://static.senpai.gg/lol/img/item/3340.webp"
     ],
-    "teamPicks": "k)/V,b[eRk",
+    "teamPicks": {
+      "redTeam": {
+        "hero1": [
+          "https://static.senpai.gg/lol/img/sprite/champion1.webp",
+          "-433px -49px"
+        ],
+        "hero2": [
+          "https://static.senpai.gg/lol/img/sprite/champion4.webp",
+          "-97px -1px"
+        ],
+        "hero3": [
+          "https://static.senpai.gg/lol/img/sprite/champion2.webp",
+          "-97px -1px"
+        ],
+        "hero4": [
+          "https://static.senpai.gg/lol/img/sprite/champion5.webp",
+          "-97px -1px"
+        ],
+        "hero5": [
+          "https://static.senpai.gg/lol/img/sprite/champion4.webp",
+          "-337px -49px"
+        ]
+      },
+      "blueTeam": {
+        "hero1": [
+          "https://static.senpai.gg/lol/img/sprite/champion1.webp",
+          "-49px -1px"
+        ],
+        "hero2": [
+          "https://static.senpai.gg/lol/img/sprite/champion0.webp",
+          "-289px -1px"
+        ],
+        "hero3": [
+          "https://static.senpai.gg/lol/img/sprite/champion0.webp",
+          "-97px -97px"
+        ],
+        "hero4": [
+          "https://static.senpai.gg/lol/img/sprite/champion4.webp",
+          "-385px -49px"
+        ],
+        "hero5": [
+          "https://static.senpai.gg/lol/img/sprite/champion1.webp",
+          "-433px -97px"
+        ]
+      }
+    },
     "postGameButton": "X/sLn3'wk$",
     "id": "9"
   },
@@ -295,7 +700,52 @@
       "",
       "https://static.senpai.gg/lol/img/item/3340.webp"
     ],
-    "teamPicks": "hV\"o%jA[dg",
+    "teamPicks": {
+      "redTeam": {
+        "hero1": [
+          "https://static.senpai.gg/lol/img/sprite/champion1.webp",
+          "-433px -49px"
+        ],
+        "hero2": [
+          "https://static.senpai.gg/lol/img/sprite/champion4.webp",
+          "-97px -1px"
+        ],
+        "hero3": [
+          "https://static.senpai.gg/lol/img/sprite/champion2.webp",
+          "-97px -1px"
+        ],
+        "hero4": [
+          "https://static.senpai.gg/lol/img/sprite/champion5.webp",
+          "-97px -1px"
+        ],
+        "hero5": [
+          "https://static.senpai.gg/lol/img/sprite/champion4.webp",
+          "-337px -49px"
+        ]
+      },
+      "blueTeam": {
+        "hero1": [
+          "https://static.senpai.gg/lol/img/sprite/champion1.webp",
+          "-49px -1px"
+        ],
+        "hero2": [
+          "https://static.senpai.gg/lol/img/sprite/champion0.webp",
+          "-289px -1px"
+        ],
+        "hero3": [
+          "https://static.senpai.gg/lol/img/sprite/champion0.webp",
+          "-97px -97px"
+        ],
+        "hero4": [
+          "https://static.senpai.gg/lol/img/sprite/champion4.webp",
+          "-385px -49px"
+        ],
+        "hero5": [
+          "https://static.senpai.gg/lol/img/sprite/champion1.webp",
+          "-433px -97px"
+        ]
+      }
+    },
     "postGameButton": "uS$(cPSg6r",
     "id": "10"
   }

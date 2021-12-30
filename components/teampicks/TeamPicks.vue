@@ -1,10 +1,13 @@
 <template>
   <div>
-    <div class="RedTeam"></div>
-    <div class="BlueTeam"></div>
+    <div class="MainItems">
+      <RedTeam :redTeam="teamPicks.redTeam" />
+      <BlueTeam :blueTeam="teamPicks.blueTeam" />
+    </div>
   </div>
 </template>
 <script>
-export default {};
+export default {
+  props: ["teamPicks"],
+};
 </script>
-<style lang=""></style>
